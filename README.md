@@ -8,10 +8,14 @@ The Data Diggers team has developed a database management system for the school 
 
 | Name | Registration Number |
 |------|---------------------|
-| [Your Name] | [Reg. No.] |
-| [Team Member 2] | [Reg. No.] |
-| [Team Member 3] | [Reg. No.] |
-| [Team Member 4] | [Reg. No.] |
+| [MOSES AMWOMA] | [CT204/119586/24] |
+| [MAINA NDERITU] | [Reg. No.] |
+| [RONNY WESLEY] | [Reg. No.] |
+| [KAREN GITAU] | [Reg. No.] |
+| [ESTHER KWAMBOKA] | [Reg. No.] |
+| [SHADRACK MANDELA] | [Reg. No.] |
+| [PAUL NAIRENYU] | [Reg. No.] |
+| [PERIS WANGECI] | [Reg. No.] |
 
 ## Project Purpose
 
@@ -24,22 +28,10 @@ This database system helps to:
 
 ## Key Features
 
-**Patient Management**
 - Student health profiles and medical history
-- Allergy and medication tracking
-- Emergency contact information
-
-**Appointment System**
-- Schedule and manage clinic visits
-- Track visit reasons and outcomes
-
-**Inventory Control**
-- Medical supplies tracking
-- Low stock alerts and reorder management
-
-**Reporting**
-- Health trend analysis
-- Visit statistics and compliance reports
+- Appointment scheduling and management
+- Medical inventory tracking with low stock alerts
+- Health reports and visit statistics
 
 ## Technologies Used
 
@@ -49,6 +41,10 @@ This database system helps to:
 ## Acknowledgments
 
 Thanks to our instructors, school administration, and clinic staff for their support and guidance.
+
+## Repository
+
+GitHub: https://github.com/MainaOsteen/Database-Systems-.git
 
 ---
 
